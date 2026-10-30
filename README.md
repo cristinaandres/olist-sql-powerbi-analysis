@@ -20,3 +20,7 @@ An e-commerce company wants to understand how delivery delays impact customer sa
 ## 🧰 Tools Used
 - **SQL (SQLite / DBeaver):** Data extraction, manipulation, and `JOIN` operations.
 - **Power BI:** Data modeling, DAX (Measures), and interactive dashboard design.
+
+## 📂 Data Source
+The raw data used for this project is publicly available on Kaggle. 
+*   **Dataset:** [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
