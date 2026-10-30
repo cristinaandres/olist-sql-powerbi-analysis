@@ -1,5 +1,3 @@
-# olist-sql-powerbi-analysis
-
 # Olist E-Commerce: Delivery Performance & Customer Satisfaction
 
 ## 📌 Business Context
